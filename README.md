@@ -70,13 +70,11 @@ All logo drafts included in the `/logos` folder were personally created and desi
 ## ⚙️ Project Setup
 
 ### 📁 Frontend Setup
-
+npm create vite@latest
+Select: React + JavaScript
+ 
 ```
 cd client
-npm create vite@latest
-```
- Select: React + JavaScript
-```
 npm install
 npm install tailwindcss @tailwindcss/vite
 npm install react-router-dom react-hot-toast
