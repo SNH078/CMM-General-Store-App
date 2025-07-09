@@ -61,8 +61,8 @@ The app is designed as a real-world, revenue-generating solution.
 - Multer (for handling multipart form data)
 -------------------------------------------------------------------
  ## 🎨 Logo Design
-
-The `/logos` folder contains all draft designs explored before finalizing the Chanchal Mega Mart logo.
+All logo drafts included in the `/logos` folder were personally created and designed by me before finalizing the logo.
+( platform used : [logo.com](https://logo.com/)
 
 ------------------------------------------------------------------
 
