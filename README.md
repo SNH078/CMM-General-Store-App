@@ -24,7 +24,7 @@ The app is designed as a real-world, revenue-generating solution.
 
 ## 🚀 Features
 
-###  📁 client folder - User-Side:
+### ▶️ User-Side:
 - Register/Login with JWT Authentication
 - Browse products by category
 - Add to cart, manage cart, and checkout
@@ -42,7 +42,7 @@ The app is designed as a real-world, revenue-generating solution.
 - Google Fonts integration
 - React Toast notification
 - React icons
----
+-------------------------------------------------------------------------------------------
 
 ## ❇️ Tech Stack
 
@@ -53,7 +53,7 @@ The app is designed as a real-world, revenue-generating solution.
 - React Router DOM
 
 
-### 📁 Backend:
+### ▶️ Backend:
 - Node.js
 - Express.js
 - MongoDB
