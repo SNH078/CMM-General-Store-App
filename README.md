@@ -65,7 +65,6 @@ The app is designed as a real-world, revenue-generating solution.
  ## 🎨 Logo Design
 All logo drafts included in the `/logos` folder were personally created and designed by me before finalizing the logo.  
 - platform used : [logo.com](https://logo.com/)
-
 ------------------------------------------------------------------
 
 ## ⚙️ Project Setup
@@ -73,6 +72,7 @@ All logo drafts included in the `/logos` folder were personally created and desi
 ### 📁 Frontend Setup
 
 ```
+cd client
 npm create vite@latest
 ```
  Select: React + JavaScript
@@ -80,8 +80,16 @@ npm create vite@latest
 npm install
 npm install tailwindcss @tailwindcss/vite
 npm install react-router-dom react-hot-toast
-
+npm run dev
 ```
+### 📁 Backend Setup
+```
+cd backend
+npm  i bycryptjs cloudinary cookie-parser cors dotenv jsonwebtoken mongoose multer stripe
+npm i nodemon --save-dev 
+npm run server
+```
+
 # 📄 Copyright  
 This project is open for learning and inspiration, but may not be copied or used commercially without permission.  
 © 2025 Sneha. All rights reserved.
