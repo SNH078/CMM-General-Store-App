@@ -187,8 +187,10 @@ This project is open for learning and inspiration, but may not be copied or used
 ![Screenshot 2025-07-08 185007](https://github.com/user-attachments/assets/25e13882-d05d-469f-81af-337ec1349535)
 
 =============================================================================
-## SELLER PANEL   
+## SELLER PANEL 
 
+# seller login page
+![Screenshot 2025-07-09 220923](https://github.com/user-attachments/assets/66160b3c-9063-451a-bb62-af7d4ec3cd11)
 # orders list 
 ![Screenshot 2025-07-08 185030](https://github.com/user-attachments/assets/01d55c08-3a68-4d4d-9689-f540b336277d)
 # order info
