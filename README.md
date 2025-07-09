@@ -17,7 +17,7 @@ The app is designed as a real-world, revenue-generating solution.
 > The application is functionally complete and pending deployment.
  
 > *Although the store owner is not directly involved, the project was developed to demonstrate how technology can support small local businesses by offering digital convenience to students and nearby residents to drive growth for local businesses.
-> The project is inspired by a real grocery store near the MANIT Bhopal campus, and uses its original name and address for authenticity.* [google map]()
+>  The project is inspired by a real grocery store near the MANIT Bhopal campus, and uses its original name and address for authenticity.* [google map]()
 
 -----------------------------------------------------------------------------
 
