@@ -5,6 +5,7 @@ MERN Grocery App
 # Home 
 ![Screenshot 2025-07-08 183131](https://github.com/user-attachments/assets/93f6438b-b006-4998-8778-cdfba39928bd)
 
+==================================================================================
 # CUSTOMER PAGE  
 # existing user - login
 ![Screenshot 2025-07-08 183151](https://github.com/user-attachments/assets/1f87d6e8-1236-49f7-bbcc-3f423aa634f1)
