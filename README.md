@@ -67,10 +67,11 @@ The app is designed as a real-world, revenue-generating solution.
 
 ```
 npm create vite@latest
-# Select: React + JavaScript
-
+```
+ Select: React + JavaScript
+```
 npm install
--npm install tailwindcss @tailwindcss/vite
+npm install tailwindcss @tailwindcss/vite
 npm install react-router-dom react-hot-toast
 
 ```
