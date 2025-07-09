@@ -1,6 +1,6 @@
 # 🛒 Chanchal Mega Mart – Full Stack Grocery Web App
 
-## 💡 Problem & Solution – Real-World Business Vision
+## ❇️ Problem & Solution – Real-World Business Vision
 
 Chanchal Mega Mart is a self-initiated full-stack web application created to address a real-world business opportunity observed near my college campus.  
 The nearest grocery store, run by an elderly shopkeeper in a residential colony, serves a large and consistent customer base—including 12 student hostels, 369 faculty quarters, and surrounding local families—yet it lacks any digital infrastructure.  
@@ -22,19 +22,19 @@ The app is designed as a real-world, revenue-generating solution.
 
 ## 🚀 Features
 
-### 👨‍💼 User-Side:
+###  User-Side:
 - Register/Login with JWT Authentication
 - Browse products by category
 - Add to cart, manage cart, and checkout
 - Save delivery address
 - Cash on Delivery option  (pending : online payment gateways to be added ) 
 
-### 🛒 Admin/Seller-Side:
+### ▶️ Admin/Seller-Side:
 - Add/Edit/Delete Products
 - Manage Orders
 - View Customer Details 
 
-### 📱 UI/UX:
+### ▶️ UI/UX:
 - Fully responsive design for mobile and desktop
 - Clean layout using Tailwind CSS
 - Google Fonts integration
@@ -42,7 +42,7 @@ The app is designed as a real-world, revenue-generating solution.
 - React icons
 ---
 
-## 🛠️ Tech Stack
+## ▶️ Tech Stack
 
 ### Frontend:
 - React.js
@@ -51,7 +51,7 @@ The app is designed as a real-world, revenue-generating solution.
 - React Router DOM
 
 
-### Backend:
+### ▶️ Backend:
 - Node.js
 - Express.js
 - MongoDB
@@ -61,7 +61,7 @@ The app is designed as a real-world, revenue-generating solution.
 - Multer (for handling multipart form data)
 ---
 
-## ⚙️ Project Setup
+## ▶️ Project Setup
 
 ### 📁 Frontend Setup
 
