@@ -84,9 +84,33 @@ npm i
 npm  i bycryptjs cloudinary cookie-parser cors dotenv jsonwebtoken mongoose multer stripe
 npm i nodemon --save-dev
 ```
+
+### .env 
+
+backend / .env
+```
+PORT=5000
+MONGO_URI=mongodb://localhost:27017/grocery-app
+JWT_SECRET=your_secret_here
+NODE_ENV=development
+
+#admin credentials
+SELLER_EMAIL="email"
+SELLER_PASSWORD="password"
+
+# cloudinary 
+CLOUDINARY_CLOUD_NAME="your_cloud_name"
+CLOUDINARY_API_KEY="your_keys"
+CLOUDINARY_API_SECRET="your_secret"
+```
+
+client 
+```
+VITE_BACKEND_URL="http://localhost:5000"
+```
 --------------------------------------------------------------------------
 ### 🔴 ADD .env files in both client and backend folders🔴
-[.env source code here](https://github.com/SNH078/CMM-.env-files/blob/main/file.md)
+[.env source code here](https://github.com/SNH078/CMM-.env-files/blob/main/file.md)   
 
 ### 🎉run frontend  (add .env folder)🔴
 ```
