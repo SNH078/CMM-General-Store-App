@@ -22,7 +22,7 @@ The app is designed as a real-world, revenue-generating solution.
 
 ## 🚀 Features
 
-###  ▶️ User-Side:
+###  ▶️ client folder - User-Side:
 - Register/Login with JWT Authentication
 - Browse products by category
 - Add to cart, manage cart, and checkout
@@ -59,7 +59,12 @@ The app is designed as a real-world, revenue-generating solution.
 - JWT (jsonwebtoken)
 - Cloudinary (for image upload)
 - Multer (for handling multipart form data)
----
+-------------------------------------------------------------------
+ ## 🎨 Logo Design
+
+The `/logos` folder contains all draft designs explored before finalizing the Chanchal Mega Mart logo.
+
+------------------------------------------------------------------
 
 ## ⚙️ Project Setup
 
