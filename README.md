@@ -20,9 +20,9 @@ The app is designed as a real-world, revenue-generating solution.
 
 -----------------------------------------------------------------------------
 
-## 🚀 Features
+## ❇️ Features
 
-###  User-Side:
+###  ▶️ User-Side:
 - Register/Login with JWT Authentication
 - Browse products by category
 - Add to cart, manage cart, and checkout
@@ -42,9 +42,9 @@ The app is designed as a real-world, revenue-generating solution.
 - React icons
 ---
 
-## ▶️ Tech Stack
+## ❇️ Tech Stack
 
-### Frontend:
+### ▶️ Frontend:
 - React.js
 - Vite
 - Tailwind CSS
@@ -61,7 +61,7 @@ The app is designed as a real-world, revenue-generating solution.
 - Multer (for handling multipart form data)
 ---
 
-## ▶️ Project Setup
+## ▶❇️ Project Setup
 
 ### 📁 Frontend Setup
 
@@ -74,7 +74,7 @@ npm install
 npm install react-router-dom react-hot-toast
 
 ```
-# HAVE A GLANCE 🌟
+#  ❇️ HAVE A GLANCE 🌟
 ---------------------------------------------------------------------
 
 # Home 
