@@ -63,7 +63,7 @@ The app is designed as a real-world, revenue-generating solution.
 -------------------------------------------------------------------
  ## 🎨 Logo Design
 All logo drafts included in the `/logos` folder were personally created and designed by me before finalizing the logo.
-( platform used : [logo.com](https://logo.com/)
+- platform used : [logo.com](https://logo.com/)
 
 ------------------------------------------------------------------
 
