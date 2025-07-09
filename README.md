@@ -67,27 +67,40 @@ All logo drafts included in the `/logos` folder were personally created and desi
 - platform used : [logo.com](https://logo.com/)
 ------------------------------------------------------------------
 
-## ⚙️ Project Setup
+## ⚙️ Project Setup  (first time setup )
 
 ### 📁 Frontend Setup
-npm create vite@latest
-Select: React + JavaScript
- 
 ```
 cd client
+npm create vite@latest
+# Select: React + JavaScript
 npm install
 npm install tailwindcss @tailwindcss/vite
 npm install react-router-dom react-hot-toast
-npm run dev
 ```
 ### 📁 Backend Setup
 ```
 cd backend
+npm i
 npm  i bycryptjs cloudinary cookie-parser cors dotenv jsonwebtoken mongoose multer stripe
-npm i nodemon --save-dev 
-npm run server
+npm i nodemon --save-dev
+```
+--------------------------------------------------------------------------
+
+### 🎉run frontend  (add .env folder)🔴
+```
+cd client
+npm i 
+npm run dev
 ```
 
+### 🎉run server :  (add .env folder)🔴
+```
+cd backend
+npm i
+npm run server
+```
+------------------------------------------------------------------------------------------
 # 📄 Copyright  
 This project is open for learning and inspiration, but may not be copied or used commercially without permission.  
 © 2025 Sneha. All rights reserved.
