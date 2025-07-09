@@ -104,7 +104,7 @@ CLOUDINARY_API_KEY="your_keys"
 CLOUDINARY_API_SECRET="your_secret"
 ```
 
-client 
+client / .env
 ```
 VITE_BACKEND_URL="http://localhost:5000"
 ```
