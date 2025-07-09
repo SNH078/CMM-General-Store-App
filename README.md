@@ -27,18 +27,19 @@ The app is designed as a real-world, revenue-generating solution.
 - Browse products by category
 - Add to cart, manage cart, and checkout
 - Save delivery address
-- Cash on Delivery option
+- Cash on Delivery option  (pending : online payment gateways to be added ) 
 
 ### 🛒 Admin/Seller-Side:
 - Add/Edit/Delete Products
 - Manage Orders
-- View Customer Details
+- View Customer Details 
 
 ### 📱 UI/UX:
 - Fully responsive design for mobile and desktop
 - Clean layout using Tailwind CSS
-- Google Fonts integration (Outfit)
-
+- Google Fonts integration
+- React Toast notification
+- React icons
 ---
 
 ## 🛠️ Tech Stack
@@ -48,7 +49,7 @@ The app is designed as a real-world, revenue-generating solution.
 - Vite
 - Tailwind CSS
 - React Router DOM
-- React Hot Toast  &  React icons
+
 
 ### Backend:
 - Node.js
