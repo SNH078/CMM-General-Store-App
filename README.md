@@ -33,7 +33,7 @@ MERN Grocery App
 ---------------------------------------------------------------------------------
 # Product Description
 ![Screenshot 2025-07-08 183452](https://github.com/user-attachments/assets/f9a88694-6e9f-4c39-98bd-5207c74bc902) 
-![Screenshot 2025-07-08 183533](https://github.com/user-attachments/assets/ebeab64d-47a6-4a0f-8be9-73378660a8c6)
+![image](https://github.com/user-attachments/assets/69d95c71-155e-49f2-9065-88f786348bb5)
 
 ---------------------------------------------------------------------------------
 # Cart 
