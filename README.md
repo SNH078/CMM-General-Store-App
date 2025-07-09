@@ -21,7 +21,10 @@ The app is designed as a real-world, revenue-generating solution.
 > *The project is inspired by a real grocery store near the MANIT Bhopal campus, and uses its original name and address for authenticity.* [google map]()
 
 -----------------------------------------------------------------------------
-
+ ## 🎨 Logo Design
+All logo drafts included in the `/logos` folder were personally created and designed by me before finalizing the logo.  
+- platform used : [logo.com](https://logo.com/) , [remove.bg](https://www.remove.bg/)
+------------------------------------------------------------------
 ## 🚀 Features
 
 ### ▶️ User-Side:
@@ -62,10 +65,6 @@ The app is designed as a real-world, revenue-generating solution.
 - Cloudinary (for image upload)
 - Multer (for handling multipart form data)
 -------------------------------------------------------------------
- ## 🎨 Logo Design
-All logo drafts included in the `/logos` folder were personally created and designed by me before finalizing the logo.  
-- platform used : [logo.com](https://logo.com/) , [remove.bg](https://www.remove.bg/)
-------------------------------------------------------------------
 
 ## ⚙️ Project Setup  (first time setup )
 
