@@ -85,6 +85,8 @@ npm  i bycryptjs cloudinary cookie-parser cors dotenv jsonwebtoken mongoose mult
 npm i nodemon --save-dev
 ```
 --------------------------------------------------------------------------
+### 🔴 ADD .env files in both client and backend folders🔴
+[.env source code here](https://github.com/SNH078/CMM-.env-files/blob/main/file.md)
 
 ### 🎉run frontend  (add .env folder)🔴
 ```
