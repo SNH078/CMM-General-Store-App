@@ -74,6 +74,12 @@ npm install
 npm install react-router-dom react-hot-toast
 
 ```
+# 📄 Copyright  
+This project is open for learning and inspiration, but may not be copied or used commercially without permission.
+© 2025 Sneha. All rights reserved.
+
+--------------------------------------------------------------------
+
 #  ❇️ HAVE A GLANCE 🌟
 ---------------------------------------------------------------------
 
