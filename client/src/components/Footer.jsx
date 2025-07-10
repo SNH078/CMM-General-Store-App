@@ -76,7 +76,7 @@ const Footer = () => {
           </p>
           <p className="mt-3 text-sm flex flex-row gap-2">
             <FaPhone />
-            +91-99993-72999
+           +91-XXXXXXXXXX  
           </p>
         </div>
       </div>
