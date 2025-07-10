@@ -85,7 +85,7 @@ npm  i bycryptjs cloudinary cookie-parser cors dotenv jsonwebtoken mongoose mult
 npm i nodemon --save-dev
 ```
 
-### .env 
+### .env.example
 
 backend / .env
 ```
