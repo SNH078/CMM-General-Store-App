@@ -25,6 +25,8 @@ The app is designed as a real-world, revenue-generating solution.
 All logo drafts included in the `/logos` folder were personally created and designed by me before finalizing the logo.  
 - platform used : [logo.com](https://logo.com/) , [remove.bg](https://www.remove.bg/)
 ------------------------------------------------------------------
+My app is designed to work with MongoDB Atlas in both dev and prod. But I’ve also added a local MongoDB fallback so I can demo or develop without internet
+------------------------------------------------------------------
 ## 🚀 Features
 
 ### ▶️ User-Side:
