@@ -19,13 +19,17 @@ The app is designed as a real-world, revenue-generating solution.
 > *Although the store owner is not directly involved, the project was developed to demonstrate how technology can support small local businesses by offering digital convenience to students and nearby residents to drive growth for local businesses.*
 
 > *The project is inspired by a real grocery store near the MANIT Bhopal campus, and uses its original name and address for authenticity.* [google map]()
+> 23°12'52.3"N 77°23'49.0"E
+>  🔍 The original Google Maps pin pointed to a residential location. I submitted a correction to reflect the store's actual location, which was later approved.  
 
 -----------------------------------------------------------------------------
  ## 🎨 Logo Design
 All logo drafts included in the `/logos` folder were personally created and designed by me before finalizing the logo.  
 - platform used : [logo.com](https://logo.com/) , [remove.bg](https://www.remove.bg/)
 ------------------------------------------------------------------
+
 My app is designed to work with MongoDB Atlas in both dev and prod. But I’ve also added a local MongoDB fallback so I can demo or develop without internet
+
 ------------------------------------------------------------------
 ## 🚀 Features
 
