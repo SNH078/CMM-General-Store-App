@@ -25,6 +25,7 @@ The app is designed as a real-world, revenue-generating solution.
 >  *🔍 The original Google Maps pin pointed to a residential location. I submitted a correction to reflect the store's actual location, which was later approved.*
 
  >  *23°12'52.3"N 77°23'49.0"E*
+> plus code :  697W+RQ Bhopal, Madhya Pradesh
 <img width="800" height="825" alt="image" src="https://github.com/user-attachments/assets/194e8cd2-a57f-4bf1-b0db-52cec3a17b4d" />
 <img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/1dce821e-688e-41ba-badf-274b409ef27e" />
 > 
