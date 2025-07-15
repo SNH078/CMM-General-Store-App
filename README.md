@@ -20,7 +20,7 @@ The app is designed as a real-world, revenue-generating solution.
  
 > *Although the store owner is not directly involved, the project was developed to demonstrate how technology can support small local businesses by offering digital convenience to students and nearby residents to drive growth for local businesses.*
 
-> *The project is inspired by a real grocery store near the MANIT Bhopal campus, and uses its original name and address for authenticity.* [google map]()
+> *The project is inspired by a real grocery store near the MANIT Bhopal campus, and uses its original name and address for authenticity.* [google map](https://www.google.com/maps/place/CHANCHAL+MEGA+MART/@23.21453,77.3943881,604m/data=!3m2!1e3!4b1!4m6!3m5!1s0x397c430006b75f41:0x20eba5f2723b5082!8m2!3d23.2145251!4d77.396963!16s%2Fg%2F11xlsgzt_j?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D)
 
 >  *🔍 The original Google Maps pin pointed to a residential location. I submitted a correction to reflect the store's actual location, which was later approved.*
 
