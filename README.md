@@ -3,7 +3,7 @@
 ## 💡 Problem & Solution – Real-World Business Vision
 
 Chanchal Mega Mart is a self-initiated full-stack web application created to address a real-world business opportunity observed near my college campus.  
-The nearest grocery store, run by an elderly shopkeeper in a residential colony, serves a large and consistent customer base—including 12 student hostels, 369 faculty/staff quarters, and surrounding local families—yet it lacks any digital infrastructure.  
+The nearest grocery store, run by an elderly shopkeeper in a residential colony, serves a large and consistent customer base—including 12 student hostels, 369 faculty/staff quarters, and surrounding local families—yet (1.4k+ homes) it lacks any digital infrastructure.  
 Despite operating in a high-demand area, the store offers no online ordering, delivery, or inventory management, creating a clear case of demand without supply infrastructure.  
 
 ---------------------------------------------------------------------------
@@ -19,7 +19,7 @@ The app is designed as a real-world, revenue-generating solution.
 > *Although the store owner is not directly involved, the project was developed to demonstrate how technology can support small local businesses by offering digital convenience to students and nearby residents to drive growth for local businesses.*
 
 > *The project is inspired by a real grocery store near the MANIT Bhopal campus, and uses its original name and address for authenticity.* [google map]()
-> 23°12'52.3"N 77°23'49.0"E
+>  23°12'52.3"N 77°23'49.0"E
 >  🔍 The original Google Maps pin pointed to a residential location. I submitted a correction to reflect the store's actual location, which was later approved.  
 
 -----------------------------------------------------------------------------
