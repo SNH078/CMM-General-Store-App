@@ -28,7 +28,7 @@ The app is designed as a real-world, revenue-generating solution.
 <img width="800" height="825" alt="image" src="https://github.com/user-attachments/assets/194e8cd2-a57f-4bf1-b0db-52cec3a17b4d" />
 <img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/1dce821e-688e-41ba-badf-274b409ef27e" />
 > 
-<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/1f7d16af-08bc-4083-bdd2-8ff2e8f7c3d6" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/1f7d16af-08bc-4083-bdd2-8ff2e8f7c3d6" />
 
 -----------------------------------------------------------------------------
  ## 🎨 Logo Design
