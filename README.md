@@ -20,9 +20,9 @@ The app is designed as a real-world, revenue-generating solution.
 
 > *The project is inspired by a real grocery store near the MANIT Bhopal campus, and uses its original name and address for authenticity.* [google map]()
 
->  *23°12'52.3"N 77°23'49.0"E*
-
 >  *🔍 The original Google Maps pin pointed to a residential location. I submitted a correction to reflect the store's actual location, which was later approved.*
+
+ >  *23°12'52.3"N 77°23'49.0"E*
 
 -----------------------------------------------------------------------------
  ## 🎨 Logo Design
