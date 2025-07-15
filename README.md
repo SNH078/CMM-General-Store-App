@@ -2,7 +2,7 @@
 
 ## 💡 Problem & Solution – Real-World Business Vision
 
-Chanchal Mega Mart is a self-initiated full-stack web application created to address a real-world business opportunity observed near my college campus.  
+Chanchal Mega Mart is a self-initiated full-stack web application created to address a real-world business opportunity observed near my college campus (NIT bhopal).  
 The nearest grocery store, run by an elderly shopkeeper in a residential colony, serves a large and consistent customer base—including 12 student hostels, 369 faculty/staff quarters, and surrounding local families—yet (1.4k+ homes) it lacks any digital infrastructure.  
 Despite operating in a high-demand area, the store offers no online ordering, delivery, or inventory management, creating a clear case of demand without supply infrastructure.  
 
@@ -10,6 +10,8 @@ Despite operating in a high-demand area, the store offers no online ordering, de
 Recognizing this untapped potential, I developed a complete e-commerce platform to bridge this gap.  
 
 The app is designed as a real-world, revenue-generating solution.  
+
+<img width="500" height="410" alt="image" src="https://github.com/user-attachments/assets/bfd02b22-079f-4dc2-bb50-24e5e74667cb" />
 
 --------------------------------------------------------------------------
 
