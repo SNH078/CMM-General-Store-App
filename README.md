@@ -1,5 +1,4 @@
-# 🛒 CMM – Full Stack Grocery Web App
-
+# 🛒 CMM – Full Stack General Store App
 ## 💡 Problem & Solution – Real-World Business Vision
 
 CMM is a self-initiated full-stack web application created to address a real-world business opportunity observed near my college campus (NIT bhopal).  
