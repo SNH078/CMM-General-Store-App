@@ -192,7 +192,7 @@ This project is open for learning and inspiration, but may not be copied or used
 ![Screenshot 2025-07-08 184647](https://github.com/user-attachments/assets/c980a78c-93f6-4ee7-b089-0e1acc660165)
 
 # order summary 
-![Screenshot 2025-07-08 184941](https://github.com/user-attachments/assets/ef184d60-2fc4-4a7e-966e-d05268b940d9)
+<!-- ![Screenshot 2025-07-08 184941](https://github.com/user-attachments/assets/ef184d60-2fc4-4a7e-966e-d05268b940d9) -->
 
 ---------------------------------------------------------------------------------
 # user option 
