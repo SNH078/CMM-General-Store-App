@@ -39,11 +39,11 @@ The app is designed as a real-world, revenue-generating solution.
 ------------------------------------------------------------------------------
 📸 As part of my initiative, I added the store’s location and images to Google Maps, which have now received 800+ views from local users — indicating active discovery and interest.  
 
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/70211ec0-0c51-4789-9508-e6252771d25d" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/70211ec0-0c51-4789-9508-e6252771d25d" />
 
-<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/47d78fe2-7f4e-4aad-b1ba-aad2d16b651a" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/47d78fe2-7f4e-4aad-b1ba-aad2d16b651a" />
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/edf3e5d8-6f90-4ebe-94c4-c868a9b1222b" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/edf3e5d8-6f90-4ebe-94c4-c868a9b1222b" />
 
 -----------------------------------------------------------------------------
  ## 🎨 Logo Design
