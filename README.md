@@ -41,9 +41,10 @@ The app is designed as a real-world, revenue-generating solution.
 
 [22/07/2025]
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/70211ec0-0c51-4789-9508-e6252771d25d" />
-<img width="200" height="400" alt="Screenshot 2025-07-26 004801" src="https://github.com/user-attachments/assets/68fd8788-66a3-4776-9547-0296880cddbe" />
 
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/edf3e5d8-6f90-4ebe-94c4-c868a9b1222b" />
+<img width="200" height="400" alt="image" src="(https://github.com/user-attachments/assets/47d78fe2-7f4e-4aad-b1ba-aad2d16b651a" />
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/edf3e5d8-6f90-4ebe-94c4-c868a9b1222b" />
 
 -----------------------------------------------------------------------------
  ## 🎨 Logo Design
