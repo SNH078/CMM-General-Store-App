@@ -12,7 +12,7 @@ Recognizing this untapped potential, I developed a complete e-commerce platform 
 
 The app is designed as a real-world, revenue-generating solution.  
 
-<img width="500" height="410" alt="image" src="https://github.com/user-attachments/assets/bfd02b22-079f-4dc2-bb50-24e5e74667cb" />
+<img width="500" height="410" alt="image" src="https://github.com/user-attachments/assets/c12a34fb-6f17-4323-8431-d0a27aaa7980" />
 
 -------------------------------------------------------------------------
 
@@ -31,7 +31,8 @@ The app is designed as a real-world, revenue-generating solution.
 
  >  *23°12'52.3"N 77°23'49.0"E*
 > plus code :  697W+RQ Bhopal, Madhya Pradesh
-<img width="800" height="825" alt="image" src="https://github.com/user-attachments/assets/194e8cd2-a57f-4bf1-b0db-52cec3a17b4d" />
+<img width="800" height="825" alt="image" src="https://github.com/user-attachments/assets/3aa408dc-f315-48c8-9737-a75f29238919" />
+
 <img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/1dce821e-688e-41ba-badf-274b409ef27e" />
 > 
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/1f7d16af-08bc-4083-bdd2-8ff2e8f7c3d6" />
