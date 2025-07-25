@@ -3,7 +3,7 @@
 
 CMM is a self-initiated full-stack web application created to address a real-world business opportunity observed near my college campus (NIT bhopal).  
 
-The nearest grocery store (located approximately 450 meters from my Hostel (H-7), within a 6-minute walking distance), run by an elderly shopkeeper in a residential colony, serves a large and consistent customer base—including 12 student hostels, 369 faculty/staff quarters, and surrounding local families—(1.4k+ homes) yet it lacks any digital infrastructure.    
+The nearest grocery store (located approximately 450 meters from my Hostel (H-7), within a 6-minute walking distance), run by an elderly shopkeeper in a residential colony, serves a large and consistent customer base , including 12 student hostels, 369 faculty/staff quarters, and surrounding local families—(1.4k+ homes) yet it lacks any digital infrastructure.    
 
 Despite operating in a high-demand area, the store offers no online ordering, delivery, or inventory management, creating a clear case of demand without supply infrastructure.  
 
