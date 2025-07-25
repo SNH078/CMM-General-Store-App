@@ -37,7 +37,7 @@ The app is designed as a real-world, revenue-generating solution.
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/1f7d16af-08bc-4083-bdd2-8ff2e8f7c3d6" />
 
 ------------------------------------------------------------------------------
-📸 As part of my initiative, I added the store’s location and images to Google Maps, which have now received 800+ views from local users — indicating active discovery and interest.  
+📸 As part of my initiative, I added the store’s location and images to Google Maps, which have now received 800+ views from local users ,indicating active discovery and interest.  
 
 <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/70211ec0-0c51-4789-9508-e6252771d25d" />
 
