@@ -43,7 +43,8 @@ The app is designed as a real-world, revenue-generating solution.
 This project bridges the offline and online gap, bringing visibility to a neighborhood store through both software and community-driven efforts.  
 
 
-<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/70211ec0-0c51-4789-9508-e6252771d25d" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/cbc0d1d1-bd94-4285-be86-0622dcd88fa9" />
+
 
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/47d78fe2-7f4e-4aad-b1ba-aad2d16b651a" />
 
