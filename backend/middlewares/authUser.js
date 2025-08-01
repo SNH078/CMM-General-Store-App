@@ -3,7 +3,7 @@ import jwt from "jsonwebtoken";
 const authUser = async (req, res, next) => {
   const { token } = req.cookies;
   if (!token) {
-    return res.status(401).json({ message: "welcom to CMM!🙏😊\nWe're excited to serve you.\nPlease login to continue", success: false });
+    return res.status(401).json({ message: "welcome to CMM!🙏😊\nWe're excited to serve you.\nPlease login to continue", success: false });
   }
   try {
     const decoded = jwt.verify(token, process.env.JWT_SECRET);
