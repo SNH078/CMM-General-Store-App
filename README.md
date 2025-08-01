@@ -172,6 +172,9 @@ This project is open for learning and inspiration, but may not be copied or used
 # Home 
 ![Screenshot 2025-07-08 183131](https://github.com/user-attachments/assets/93f6438b-b006-4998-8778-cdfba39928bd)
 
+-------------
+<img width="1919" height="830" alt="image" src="https://github.com/user-attachments/assets/623e6d45-7702-48d8-a87a-6b8734bca89b" />
+
 ============================================================================
 
 ## CUSTOMER PAGE  
@@ -204,7 +207,7 @@ This project is open for learning and inspiration, but may not be copied or used
 
 ---------------------------------------------------------------------------------
 # Cart 
-![Screenshot 2025-07-08 184452](https://github.com/user-attachments/assets/75a17e63-ce57-4d4c-961f-7fe7b671ac52)
+<img width="1918" height="770" alt="image" src="https://github.com/user-attachments/assets/f01db25e-7029-4eb4-98e9-f3864e256b7b" />
 
 # Add new Address
 ![Screenshot 2025-07-08 184647](https://github.com/user-attachments/assets/c980a78c-93f6-4ee7-b089-0e1acc660165)
