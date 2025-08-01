@@ -3,7 +3,7 @@ import jwt from "jsonwebtoken";
 const authUser = async (req, res, next) => {
   const { token } = req.cookies;
   if (!token) {
-    return res.status(401).json({ message: "Unauthorized", success: false });
+    return res.status(401).json({ message: "welcom to CMM!🙏😊\nWe're excited to serve you.\nPlease login to continue", success: false });
   }
   try {
     const decoded = jwt.verify(token, process.env.JWT_SECRET);
@@ -11,10 +11,9 @@ const authUser = async (req, res, next) => {
     next();
   } catch (error) {
     console.error("Error in authUser middleware:", error);
-    return res.status(401).json({ message: "Invalid token", success: false });
+    return res.status(401).json({ message: "Session expired or invalid. Please log in again.", success: false });
   }
 };
 
 export default authUser;
-
 
