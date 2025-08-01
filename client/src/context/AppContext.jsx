@@ -33,15 +33,20 @@ export const AppContextProvider = ({ children }) => {
   // fetch user auth status ,user Data and cart items
   const fetchUser = async () => {
     try {
-      const { data } = await axios.get("/api/user/is-auth");
-      if (data.success) {
-        setUser(data.user);
-        setCartItems(data.user.cart);
+      const res = await axios.get("/api/user/is-auth");
+      if (res.data.success) {
+        setUser(res.data.user);
+        setCartItems(res.data.user.cart);
       } else {
-        toast.error(data.message);
+        toast.error(res.data.message);
       }
     } catch (error) {
-      toast.error(error.message);
+      // Show custom backend message if available
+      if (error.response && error.response.data && error.response.data.message) {
+        alert(error.response.data.message); // or use our toast/error UI
+      } else {
+        alert("An error occurred");
+      }
     }
   };
 
@@ -175,4 +180,3 @@ export const AppContextProvider = ({ children }) => {
 export const useAppContext = () => {  
   return useContext(AppContext);   
 };
-
