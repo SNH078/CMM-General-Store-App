@@ -18,7 +18,9 @@ The app is designed as a real-world, revenue-generating solution.
 
 -------------------------------------------------------------------------
 
+![WhatsApp Image 2025-08-03 at 22 19 21_d0d6fbeb](https://github.com/user-attachments/assets/7cedf72a-4cd3-4de7-bd32-d6a03e98ab31)
 
+<img width="880" height="733" alt="image" src="https://github.com/user-attachments/assets/f37f2dea-a7e2-4245-bdde-b7344a95cf21" />
 
 --------------------------------------------------------------------------
 
