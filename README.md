@@ -2,7 +2,9 @@
 ## 💡 Problem & Solution – Real-World Business Vision
 
 <img width="1252" height="576" alt="image" src="https://github.com/user-attachments/assets/c906e942-2513-4e20-bd1e-267275ed770d" />
-(Made using napkin.ai)  
+(Image generated using napkin.ai)  
+
+
 
 CMM is a self-initiated full-stack web application created to address a real-world business opportunity observed near my college campus (NIT bhopal).  
 
