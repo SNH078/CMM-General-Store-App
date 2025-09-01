@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useAppContext } from "../context/appContext";
+import { useAppContext } from "../context/AppContext";
 import { Link, useParams } from "react-router-dom";
 import { assets } from "../assets/assets";
 import ProductCard from "../components/ProductCard";
@@ -12,39 +12,38 @@ const SingleProduct = () => {
   const [thumbnail, setThumbnail] = useState(null);
   const [relatedProducts, setRelatedProducts] = useState([]);
 
-  const product = products.find((product) => product._id === id);
-  console.log("product", product);
+  const currentProduct= products.find((product) => product._id === id);
+  console.log("product",currentProduct);
 
 //---------------------------------
-  useEffect(() => {
-    if (products.length > 0) {
-      let productsCopy = products.slice();
-      productsCopy = productsCopy.filter(
-        (product) => product.category === product.category  // this will always give true
-        // p.category === product.category && p._id !== product._id // exclude current
-      );
-      setRelatedProducts(productsCopy.slice(0, 5));
-    }
-  }, [products]);
+useEffect(() => {
+  if (products.length > 0 && currentProduct) {
+    const related = products.filter(
+      (p) => p.category === currentProduct.category && p._id !== currentProduct._id
+    );
+    setRelatedProducts(related.slice(0, 5));
+  }
+}, [products, currentProduct]);
+
 //-----------------------------------
   useEffect(() => {
-    setThumbnail(product?.image[0] ? product.image[0] : null);
-  }, [product]);
+    setThumbnail(currentProduct?.image[0] ? currentProduct.image[0] : null);
+  }, [currentProduct]);
 
 //--------------------------------------------------------------------
   return (
-    product && (
+    currentProduct && (
 
       <div className="mt-16">
 
 
         <p>
           <Link to="/">Home</Link>/<Link to={"/products"}> Products</Link> /
-          <Link to={`/products/${product.category.toLowerCase()}`}>
+          <Link to={`/products/${currentProduct.category.toLowerCase()}`}>
             {" "}
-            {product.category}
+            {currentProduct.category}
           </Link>{" "}
-          /<span className="text-orange-400"> {product.name}</span>
+          /<span className="text-orange-400"> {currentProduct.name}</span>
         </p>
 
 
@@ -52,7 +51,7 @@ const SingleProduct = () => {
           <div className="flex gap-3">
 
                <div className="flex flex-col gap-3">
-              {product.image.map((image, index) => (
+              {currentProduct.image.map((image, index) => (
                 <div
                   key={index}
                   onClick={() => setThumbnail(image)}
@@ -76,7 +75,7 @@ const SingleProduct = () => {
 
 {/* ====== */}
  <div className="text-sm w-full md:w-1/2">
-            <h1 className="text-3xl font-medium">{product.name}</h1>
+            <h1 className="text-3xl font-medium">{currentProduct.name}</h1>
 
        <div className="flex items-center gap-0.5 mt-1">
   {Array(5)
@@ -95,15 +94,15 @@ const SingleProduct = () => {
 
             <div className="mt-6">
               <p className="text-gray-500/70 line-through">
-                MRP: ₹ {product.price}
+                MRP: ₹ {currentProduct.price}
               </p>
-              <p className="text-2xl font-medium">MRP: ₹ {product.offerPrice}</p>
+              <p className="text-2xl font-medium">MRP: ₹ {currentProduct.offerPrice}</p>
               <span className="text-gray-500/70">(inclusive of all taxes)</span>
             </div>
 
           <p className="text-base font-semibold mt-6">About Product</p>
 <ul className="list-disc pl-5 text-gray-600 text-sm space-y-1 mt-2">
-  {product.description.map((desc, index) => (
+  {currentProduct.description.map((desc, index) => (
     <li key={index}>{desc}</li>
   ))}
 </ul>
@@ -111,7 +110,7 @@ const SingleProduct = () => {
 
             <div className="flex items-center mt-10 gap-4 text-base">
               <button
-                onClick={() => addToCart(product._id)}
+                onClick={() => addToCart(currentProduct._id)}
                 className="w-full py-3.5 cursor-pointer font-medium bg-gray-100 text-gray-800/80 hover:bg-gray-200 transition"
               >
                 Add to Cart
@@ -119,7 +118,7 @@ const SingleProduct = () => {
 
               <button
                 onClick={() => {
-                  addToCart(product._id);
+                  addToCart(currentProduct._id);
                   navigate("/cart");
                   scrollTo(0, 0);
                 }}
@@ -166,3 +165,4 @@ const SingleProduct = () => {
   );
 };
 export default SingleProduct;
+
