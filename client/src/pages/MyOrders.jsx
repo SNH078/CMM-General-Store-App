@@ -47,8 +47,12 @@ const MyOrders = () => {
 
           <p className="flex justify-between items-center gap-6 ">
             <span>orderId :{order._id} </span>
+              <span>Date :{new Date(order.createdAt).toLocaleString()} </span>
+                <p>Status:{order.status}</p>
             <span>payment :{order.paymentType} </span>
+            
             <span>Total Amount : ₹{order.amount} </span>
+
           </p>
 
           {order.items.map((item, index) => (
@@ -76,9 +80,8 @@ const MyOrders = () => {
 {/*  */}
               <div className=" text-lg font-medium">
                 <p>Quantity:{item.quantity || "1"}</p>
-                <p>Status:{order.status}</p>
-                <p>Date:{new Date(order.createdAt).toLocaleString()}</p>
-              </div>
+              
+                 </div>
 {/*  */}
               <p className=" text-lg">
                 Amount:₹{item.product.offerPrice * item.quantity}
