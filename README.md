@@ -217,7 +217,7 @@ This project is open for learning and inspiration, but may not be copied or used
 <img width="1918" height="770" alt="image" src="https://github.com/user-attachments/assets/f01db25e-7029-4eb4-98e9-f3864e256b7b" />
 
 # Add new Address
-![Screenshot 2025-07-08 184647](https://github.com/user-attachments/assets/c980a78c-93f6-4ee7-b089-0e1acc660165)
+<img width="1919" height="811" alt="image" src="https://github.com/user-attachments/assets/89556bf7-d3cb-486e-bdd4-8324afd5560d" />
 
 # order summary 
 <!-- ![Screenshot 2025-07-08 184941](https://github.com/user-attachments/assets/ef184d60-2fc4-4a7e-966e-d05268b940d9) -->
